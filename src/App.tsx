@@ -1,8 +1,9 @@
 import React from 'react';
+import Widget from './components/Widget';
 
 const App = () => (
   <div className="App">
-    <h1>Nlw Return</h1>
+    <Widget />
   </div>
 );
 
